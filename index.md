@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## 교육용 챗봇 실습
+동국대학교 교육대학원 AI융합교육과정 송자선
 
-You can use the [editor on GitHub](https://github.com/jasun2021/sugoi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 스고이 봇
+## 
+###
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
