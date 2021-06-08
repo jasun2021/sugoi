@@ -11,10 +11,9 @@
 동대부고 2학년 일본어 초보 학습자
 ### 내용
 다락원 일본어1 0과 ~ 1과 
-### 게대효과
+### 기대효과
 일본어 흥미 UP
 AI융합교육 적용으로 학생들의 관심 UP
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
