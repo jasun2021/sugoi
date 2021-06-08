@@ -1,5 +1,6 @@
 ## 교육용 챗봇 실습
 동국대학교 교육대학원 AI융합교육과정 송자선
+![c3abde10629cef0baeea4156b3685487](https://user-images.githubusercontent.com/81289227/121119955-95733f00-c857-11eb-8e1b-b0d4bbbbe096.jpg)
 
 # 스고이 봇
 ## 
