@@ -3,8 +3,8 @@
 
 ###안녕! 내 이름은 すごい
 
-
 ![c3abde10629cef0baeea4156b3685487](https://user-images.githubusercontent.com/81289227/121119955-95733f00-c857-11eb-8e1b-b0d4bbbbe096.jpg)
+
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -16,9 +16,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# AI융합 교육과정 (일본어1)
+## 챗봇 활용 목적 : 일본어 초보 학습자를 위한 1학기 수행평가 도우미
+### 대상 : 동대부고 2학년 일본어 선택자
 
 - Bulleted
 - List
